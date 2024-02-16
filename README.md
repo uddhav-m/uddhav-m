@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Uddhav Mense
-- 👀 I’m interested in Web Development, UI & still exploring interests.
+- 👀 I’m interested in Web Development, UI/UX & still exploring.
 - 🌱 I’m currently learning Web development.
 - 📫 You can rech out to me on uddhavmense23@gmail.com
 
